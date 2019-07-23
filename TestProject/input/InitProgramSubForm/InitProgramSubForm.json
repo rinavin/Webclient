@@ -1,0 +1,30 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"InitProgramSubForm",
+		"component_path":	"InitProgramSubForm/",
+		"component_uniquename":	"InitProgramSubForm_InitProgramSubForm"
+	},
+	"coordinates":	null,
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label1",
+				"text":	"start program : No test",
+				"common_line_id":	"line29"
+			},
+			"coordinates":	{
+				"x":	35,
+				"y":	29,
+				"width":	326,
+				"height":	191
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		}
+	]
+}

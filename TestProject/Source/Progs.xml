@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14000.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="10"/>
+    <LastIsnFolder val="2"/>
+    <Folders>
+      <Folder id="1">
+        <Name val="Controls"/>
+      </Folder>
+      <Folder id="2">
+        <Name val="CustomProperties"/>
+      </Folder>
+    </Folders>
+  </Header>
+
+  <ProgramsRepositoryOutLine>
+    <Programs>
+      <Program id="1"/>
+      <Program id="2"/>
+      <Program id="3"/>
+      <Program id="4"/>
+      <Program id="10"/>
+      <Program FolderIsn="1" id="5"/>
+      <Program FolderIsn="1" id="6"/>
+      <Program FolderIsn="1" id="7"/>
+      <Program FolderIsn="2" id="8"/>
+      <Program FolderIsn="2" id="9"/>
+    </Programs>
+  </ProgramsRepositoryOutLine>
+
+</Application>

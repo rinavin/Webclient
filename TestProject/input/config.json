@@ -1,0 +1,24 @@
+{
+	"create_route_map":	true,
+	"create_new_project":	false,
+	"created_menu":	false,
+	"created_views":	true,
+	"theme":	"basicHTML",
+	"output_folder":	"D:\\MagicDev\\trunk\\Sources\\Webclient\\sites",
+	"absolute_position":	false,
+	"backup_current":	false,
+	"source_images_folder":	"D:\\MagicDev\\trunk\\Sources\\Webclient\\TestProject\\images",
+	"copy_images":	false,
+	"exposed_functionality":	true,
+	"allow_testing":	false,
+	"project_name":	"TestProject",
+	"form_files":	[
+		"TestProjectStartProgram/TestProjectStartProgram",
+		"InitProgramSubForm/InitProgramSubForm",
+		"Controls/initValue/formCheckInitValue",
+		"Controls/ButtonTest/FormButtonTest",
+		"Controls/EditControl/EditControl",
+		"CustomProperties/CustomPropertiesControl/CustomPropertiesControl",
+		"CustomProperties/CustomPropertiesForm/CustomPropertiesForm"
+	]
+}

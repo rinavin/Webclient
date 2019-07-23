@@ -1,0 +1,69 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"FormButtonTest",
+		"component_path":	"Controls/ButtonTest/",
+		"component_uniquename":	"ButtonTest_FormButtonTest"
+	},
+	"coordinates":	null,
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"MyLabel",
+				"text":	{
+					"value":	"0",
+					"has_exp":	true
+				},
+				"common_line_id":	"line49"
+			},
+			"coordinates":	{
+				"x":	49,
+				"y":	49,
+				"width":	189,
+				"height":	29
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"ButtonPlus",
+				"tab_order":	1,
+				"format":	"plus1",
+				"common_line_id":	"line130"
+			},
+			"coordinates":	{
+				"x":	49,
+				"y":	130,
+				"width":	189,
+				"height":	42
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"ButtonReset",
+				"tab_order":	2,
+				"format":	"reset",
+				"common_line_id":	"line192"
+			},
+			"coordinates":	{
+				"x":	49,
+				"y":	192,
+				"width":	188,
+				"height":	44
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		}
+	]
+}

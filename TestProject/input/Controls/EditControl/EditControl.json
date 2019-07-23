@@ -1,0 +1,73 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"EditControl",
+		"component_path":	"Controls/EditControl/",
+		"component_uniquename":	"EditControl_EditControl"
+	},
+	"coordinates":	{
+		"width":	609
+	},
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label4",
+				"text":	"Field1:",
+				"common_line_id":	"line13"
+			},
+			"coordinates":	{
+				"x":	6,
+				"y":	13,
+				"width":	33,
+				"height":	15
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	{
+				"alignment":	{
+					"horizontal":	1,
+					"vertical":	null
+				}
+			},
+			"props":	{
+				"id":	"Field1",
+				"tab_order":	0,
+				"pattern":	"^.{0,30}$",
+				"attribute":	"A",
+				"common_line_id":	"line13"
+			},
+			"coordinates":	{
+				"x":	45,
+				"y":	13,
+				"width":	216,
+				"height":	20
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label5",
+				"text":	"Edit controls contain either variables or expressions, specified in the Value and Exp columns of the Data property",
+				"common_line_id":	"line61"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	61,
+				"width":	540,
+				"height":	63
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		}
+	]
+}

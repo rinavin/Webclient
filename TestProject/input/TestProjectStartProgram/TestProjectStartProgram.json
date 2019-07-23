@@ -1,0 +1,123 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"TestProjectStartProgram",
+		"component_path":	"TestProjectStartProgram/",
+		"component_uniquename":	"TestProjectStartProgram_TestProjectStartProgram"
+	},
+	"coordinates":	{
+		"width":	749,
+		"height":	642
+	},
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"checkInitValue",
+				"tab_order":	0,
+				"format":	"checkInitValue",
+				"common_line_id":	"line21"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	21,
+				"width":	156,
+				"height":	27
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"CustomPropertiesForm",
+				"tab_order":	0,
+				"format":	"CustomPropertiesForm",
+				"common_line_id":	"line21"
+			},
+			"coordinates":	{
+				"x":	181,
+				"y":	21,
+				"width":	156,
+				"height":	27
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"ButtonTest",
+				"tab_order":	0,
+				"format":	"ButtonTest",
+				"common_line_id":	"line53"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	53,
+				"width":	156,
+				"height":	27
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"CustomPropertiesControl",
+				"tab_order":	0,
+				"format":	"CustomPropertiesControl",
+				"common_line_id":	"line53"
+			},
+			"coordinates":	{
+				"x":	181,
+				"y":	54,
+				"width":	156,
+				"height":	27
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"EditControl",
+				"tab_order":	0,
+				"format":	"EditControl",
+				"common_line_id":	"line85"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	85,
+				"width":	156,
+				"height":	27
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Subform2",
+				"tab_order":	0,
+				"common_line_id":	"line154"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	154,
+				"width":	729,
+				"height":	481
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		}
+	]
+}

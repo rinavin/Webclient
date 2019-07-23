@@ -1,0 +1,92 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"formCheckInitValue",
+		"component_path":	"Controls/initValue/",
+		"component_uniquename":	"initValue_formCheckInitValue"
+	},
+	"coordinates":	null,
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"MyLabel",
+				"text":	"start program : No test",
+				"common_line_id":	"line36"
+			},
+			"coordinates":	{
+				"x":	30,
+				"y":	36,
+				"width":	199,
+				"height":	40
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	{
+				"alignment":	{
+					"horizontal":	1,
+					"vertical":	null
+				}
+			},
+			"props":	{
+				"id":	"MyEditControl",
+				"tab_order":	0,
+				"pattern":	"^.{0,100}$",
+				"attribute":	"A",
+				"common_line_id":	"line91"
+			},
+			"coordinates":	{
+				"x":	31,
+				"y":	91,
+				"width":	172,
+				"height":	37
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"MyCheckBox",
+				"tab_order":	0,
+				"text":	"True,False",
+				"attribute":	"B",
+				"common_line_id":	"line150"
+			},
+			"coordinates":	{
+				"x":	30,
+				"y":	150,
+				"width":	173,
+				"height":	36
+			},
+			"hint":	null,
+			"controlType":	"C",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"MyComboBox",
+				"tab_order":	0,
+				"items_list":	"1,2,3,4,5,6",
+				"attribute":	"A",
+				"common_line_id":	"line213"
+			},
+			"coordinates":	{
+				"x":	31,
+				"y":	213,
+				"width":	131,
+				"height":	32
+			},
+			"hint":	null,
+			"controlType":	"D",
+			"children":	null
+		}
+	]
+}
